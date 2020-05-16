@@ -11,4 +11,4 @@ To train in your own dataset  use ```Facial_emotion_2.py``` file.
 
 To check the accuracy of your trained model using the ```PrivateTest``` use file ```emotion_test```.
 
-You can use my Trained model ```model_trained_64.p ``` to use in real time use ```emotion_analysis``` file 
+You can use my Trained model ```model_trained_64.p ``` to use in real time use ```emotion_analysis``` file.

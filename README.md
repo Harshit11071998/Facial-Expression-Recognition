@@ -2,7 +2,8 @@
 Facial Emotion Recognition using CNN . The dataset used is <a href="https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data">fer2013</a>,
 which was provided by kaggle as a challenge in 2013. It consist of a csv file which have pixel values of 
 faces. We can detect 7 human (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral) after sucessful 
-training of the model.
+training of the model. To get more information of the dataset open the above link. You can Download it from 
+<a href="https://www.kaggle.com/deadskull7/fer2013">here</a>
 
 The winner of this challenge had an accuracy of 71% ,whereas i was able to achieve 64% which is pretty close to it.
 
